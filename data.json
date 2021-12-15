@@ -1,0 +1,33 @@
+{
+  "httpMethod": "GET",
+  "path": "/data?user=lfpratik",
+  "resource": "/:proxy",
+  "queryStringParameters": {
+    "user": "lfpratik"
+  },
+  "pathParameters": {
+    "proxy": "data"
+  },
+  "headers": {
+    "host": "localhost",
+    "user-agent": "curl/7.51.0",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "day": "Thursday",
+    "content-length": "18"
+  },
+  "requestContext": {
+    "apiEndpoint": {
+      "apiEndpointName": "default",
+      "host": "*",
+      "path": "/:proxy",
+      "paths": "/:proxy",
+      "scopes": []
+    },
+    "resourcePath": "/:proxy",
+    "httpMethod": "GET",
+    "requestId": "3SpeBYb8SK6CvH7Ipx56pK"
+  },
+  "isBase64Encoded": false,
+  "body": ""
+}
